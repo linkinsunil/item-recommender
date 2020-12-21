@@ -40,7 +40,7 @@ export default function App() {
       <h1> NCAP ratings </h1>
       <p style={{ fontSize: "smaller" }}>
         {" "}
-        Checkout NCAP ratings of your favourite car. Select a build categoty to
+        Checkout NCAP ratings of your favourite car. Select a build category to
         get started{" "}
       </p>
 
