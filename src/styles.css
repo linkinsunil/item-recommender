@@ -1,0 +1,24 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color:#c58923;
+}
+
+button{
+  cursor: pointer;
+  background-color: #E5E7EB;
+  border-radius: 0.3rem;
+  padding: 0.5rem  1rem;
+  border: none;
+  margin: 1rem 0.3rem;
+}
+
+button:hover {
+  background-color: darkslategray;
+  color: #E5E7EB;
+}
