@@ -1,2 +1,2 @@
 # item-recommender
- 24aug2021
+A category wise item recommendation app as we see in restaurant menu apps.
